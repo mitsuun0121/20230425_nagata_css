@@ -18,31 +18,23 @@ a {
   margin-top: -60px;
 }
 
-.title {
-  position: relative;
-  top: 200px;
-}
-
-.title-text {
+.title-black {
   font-size: 50px;
   font-weight: lighter;
-  margin-top: 220px;
+  margin-top: 300px;
 }
 
-.photo {
-  position: relative;
+.box-blue {
+  background-color: rgb(26, 27, 134);
+  width: 70vw;
+  height: 20vw;
+  margin-top: -50px;
 }
 
 .photo-img {
   margin: 0 0 0 auto;
-  margin-top: -250px;
+  margin-top: -400px;
   display: block;
   width: 50%;
-}
-
-.box {
-  background-color: rgb(26, 27, 134);
-  width: 1150px;
-  height: 200px;
-  margin-top: -100px;
+  background-position: right;
 }
