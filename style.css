@@ -1,0 +1,48 @@
+.header {
+  color: rgb(5, 5, 107);
+  font-size: 30px;
+  font-weight: bold;
+}
+
+a {
+  color: rgb(5, 5, 107);
+  text-decoration: none;
+  margin: 20px 20px 20px 20px;
+  font-weight: bold;
+}
+
+.no-mark {
+  list-style: none;
+  display: flex;
+  justify-content: right;
+  margin-top: -60px;
+}
+
+.title {
+  position: relative;
+  top: 200px;
+}
+
+.title-text {
+  font-size: 50px;
+  font-weight: lighter;
+  margin-top: 220px;
+}
+
+.photo {
+  position: relative;
+}
+
+.photo-img {
+  margin: 0 0 0 auto;
+  margin-top: -250px;
+  display: block;
+  width: 50%;
+}
+
+.box {
+  background-color: rgb(26, 27, 134);
+  width: 1150px;
+  height: 200px;
+  margin-top: -100px;
+}
