@@ -1,40 +1,44 @@
-.header {
+.header-title {
   color: rgb(5, 5, 107);
   font-size: 30px;
   font-weight: bold;
+  margin-top: 20px;
+  margin-left: 20px;
 }
 
 a {
   color: rgb(5, 5, 107);
   text-decoration: none;
-  margin: 20px 20px 20px 20px;
   font-weight: bold;
 }
 
 .no-mark {
+  text-align: right;
+  margin-top: -20px;
+}
+
+.no-mark li {
+  font-size: 18px;
   list-style: none;
-  display: flex;
-  justify-content: right;
-  margin-top: -60px;
+  display: inline;
+  justify-content:right;
+  padding: 5px 20px;
 }
 
 .title-black {
   font-size: 50px;
-  font-weight: lighter;
-  margin-top: 300px;
+  margin-top: 400px;
 }
 
 .box-blue {
-  background-color: rgb(26, 27, 134);
-  width: 70vw;
-  height: 20vw;
-  margin-top: -50px;
+  background-color: rgb(5, 5, 107);
+  display: inline-block;
+  width: 70%;
+  height: 20vh;
 }
 
 .photo-img {
-  margin: 0 0 0 auto;
-  margin-top: -400px;
+  margin: -500px 0 0 auto;
   display: block;
-  width: 50%;
-  background-position: right;
+  width: 600px;
 }
